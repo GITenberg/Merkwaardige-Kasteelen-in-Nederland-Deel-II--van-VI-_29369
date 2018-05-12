@@ -1,0 +1,37 @@
+_repo: Merkwaardige-Kasteelen-in-Nederland-Deel-II--van-VI-_29369
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Hofdijk, W. J. (Willem Jacobszoon)
+    alias: Hofdijk, Willem Jacobszoon
+    birthdate: 1816
+    deathdate: 1888
+    gutenberg_agent_id: '33877'
+    url: http://www.gutenberg.org/2009/agents/33877
+  - agent_name: Lennep, J. van (Jacob)
+    aliases:
+    - Lennep, Jacob van
+    - Lennep, Jakob van
+    - Van Lennep, J. (Jacob)
+    birthdate: 1802
+    deathdate: 1868
+    gutenberg_agent_id: '8513'
+    url: http://www.gutenberg.org/2009/agents/8513
+    wikipedia: http://nl.wikipedia.org/wiki/Jacob_van_Lennep
+description: ''
+gutenberg_issued: '2009-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29369'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DJ'
+- !lcsh 'Castles -- Netherlands'
+title: Merkwaardige Kasteelen in Nederland, Deel II (van VI)
+url: http://www.gutenberg.org/ebooks/29369
